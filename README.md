@@ -129,6 +129,8 @@ DELETE /api/notes/:id
 
 ## Screenshots
 <img width="1920" height="914" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/18453253-e529-4c8f-bfdd-5044444d6e6e" />
+<img width="528" height="871" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/1797691a-bfbc-4f21-bae4-1f9736707f72" />
+
 
 ## Learning Outcomes
 
