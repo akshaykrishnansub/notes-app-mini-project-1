@@ -128,20 +128,7 @@ DELETE /api/notes/:id
 ```
 
 ## Screenshots
-
-Add screenshots of your application here.
-
-### Home Page
-
-```text
-Insert Screenshot
-```
-
-### Notes List
-
-```text
-Insert Screenshot
-```
+<img width="1920" height="914" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/18453253-e529-4c8f-bfdd-5044444d6e6e" />
 
 ## Learning Outcomes
 
